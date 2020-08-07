@@ -21,3 +21,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: "ap-northeast-1"
           DEST_PATH: "s3://uooooooo/"
+          CF_RESET: CF_RESET
