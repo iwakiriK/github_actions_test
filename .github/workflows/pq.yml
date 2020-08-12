@@ -19,3 +19,5 @@ jobs:
           AWS_REGION: "ap-northeast-1"
           DEST_PATH: "s3://uooooooo/PR/"
           CF_RESET: CF_RESET
+          OPTIONS: "--dryrun"
+          
